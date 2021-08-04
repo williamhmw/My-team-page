@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+}
+/*
+font-family: 'Poppins', sans-serif;
+font-family: 'PT Serif', serif;
+*/
+.text-top{
+    display: flex;
+    padding-top: 110px;
+    padding-left: 243px;
+}
+
+.text-portfolio{
+    font-family: 'PT Serif', serif;
+    font-size: 36px;
+    font-weight: 700;
+    line-height: 47.7px;
+    min-width: 303px;
+}
+
+.text-about-title{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: 27px;
+    text-transform: uppercase;
+}
+.text-about{
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 27px;
+    padding-left: 215px;
+}
+
